@@ -1,11 +1,11 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/uhvishal41-ui/house-of-muktai-app-updates/releases/download/V1.1.0/house-of-muktai-v1.1.0.apk",
-  "sha256": "D7453269021E72D47F7D0D19FEEF883DD58ED15C8ACE76F1F4336C3EFE0CC5EB",
-  "fileSizeBytes": 3551239,
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/uhvishal41-ui/house-of-muktai-app-updates/releases/download/V1.1.2/house-of-muktai-v1.1.2.apk",
+  "sha256": "9E9FA5A6F1F911A4F454D39C74B4CB73C5423222CC645E75EC873A8EA3EF7AFD",
+  "fileSizeBytes": 3552515,
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "releaseNotes": "HOUSE OF MUKTAI - Automatic Update 1.1.0",
-  "publishedAt": "2026-11-11T10:31:11.872Z"
+  "releaseNotes": "HOUSE OF MUKTAI - Automatic Update 1.1.2",
+  "publishedAt": "2026-11-14T11:18:50Z"
 }
